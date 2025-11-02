@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-//Asus
+//Asus2
 int main()
 {
     printf("Elso beadando - Pokoraczki Peter Roland - IJ3B1Q\n");
